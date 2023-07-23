@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67c667e0-1ae7-478f-af99-96e1243c0e8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/tickets/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/tickets/TicketManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/tickets/TicketManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/tickets/TicketRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/tickets/TicketRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TicketManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TicketManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "C:/Users/Grey9/IdeaProjects/Tickets/src/main/java/ru/netology/tickets",
-    "last_opened_file_path": "C:/Users/Grey9/IdeaProjects/ProductManager"
+    "last_opened_file_path": "C:/Users/Grey9/IdeaProjects/Tickets"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,11 +69,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicketManagerTest.sortTicketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicketManagerTest.addTicketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tickets" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TicketManagerTest" />
-      <option name="METHOD_NAME" value="sortTicketsTest" />
+      <option name="METHOD_NAME" value="addTicketsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketManagerTest.findAllTicketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tickets" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicketManagerTest" />
+      <option name="METHOD_NAME" value="findAllTicketsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketManagerTest.noFoundTicketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tickets" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TicketManagerTest" />
+      <option name="METHOD_NAME" value="noFoundTicketsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,8 +102,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TicketManagerTest" />
+        <item itemvalue="JUnit.TicketManagerTest.noFoundTicketsTest" />
+        <item itemvalue="JUnit.TicketManagerTest.addTicketsTest" />
+        <item itemvalue="JUnit.TicketManagerTest.findAllTicketsTest" />
         <item itemvalue="JUnit.TicketManagerTest.addTestBooks" />
-        <item itemvalue="JUnit.TicketManagerTest.sortTicketsTest" />
       </list>
     </recent_temporary>
   </component>
